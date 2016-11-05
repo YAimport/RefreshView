@@ -1,6 +1,8 @@
 RefreshView
 =========
 
+**Test**
+
 This library provides three loading method in UITableView or UICollectionView: pull to refresh,  scroll to bottom to refresh and loading.
 
 It provides:
